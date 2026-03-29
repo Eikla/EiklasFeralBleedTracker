@@ -1,0 +1,11 @@
+dist/
+*.zip
+
+.vscode/
+.idea/
+*.code-workspace
+
+Thumbs.db
+.DS_Store
+
+luac.out
