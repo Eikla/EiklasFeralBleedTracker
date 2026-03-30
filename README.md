@@ -20,4 +20,4 @@ Feral bleed snapshot tracking for Midnight-style gameplay, with automatic spell-
 
 ## Version
 
-`0.0.1`
+`0.0.2`

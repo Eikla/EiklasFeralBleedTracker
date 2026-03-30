@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.2
+
+- Fixed the TOC interface value for current Midnight-compatible clients.
+- Updated the packaged release after the incompatible addon report.
+
 ## 0.0.1
 
 - Initial release.
